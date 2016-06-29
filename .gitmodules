@@ -1,3 +1,6 @@
 [submodule "stringsfile/test1"]
 	path = test1/s111.xml
 	url = https://github.com/shivam49123/test1
+[submodule "test1"]
+	path = test1
+	url = https://github.com/shivam49123/test1.git
